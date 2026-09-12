@@ -16,11 +16,11 @@ A light questionnaire for assessing trauma symptoms, LGPD-compliant, with person
 
 Key features include:
 
-*   **Gentle Questionnaire:** A user-friendly interface that guides respondents through a series of questions without causing additional stress.
-*   **Personalized Feedback:** Provides immediate, customized feedback to users based on their responses.
-*   **CSV Data Export:** Allows administrators to easily export all collected data to a CSV file for further analysis.
-*   **LGPD Compliance:** Built with privacy in mind, ensuring all data handling follows LGPD requirements.
-*   **Customizable:** The 5 core variables are available in the source code, allowing developers to adapt the questionnaire as needed.
+* **Gentle Questionnaire:** A user-friendly interface that guides respondents through a series of questions without causing additional stress.
+* **Personalized Feedback:** Provides immediate, customized feedback to users based on their responses.
+* **CSV Data Export:** Allows administrators to easily export all collected data to a CSV file for further analysis.
+* **LGPD Compliance:** Built with privacy in mind, ensuring all data handling follows LGPD requirements.
+* **Customizable:** The 5 core variables are available in the source code, allowing developers to adapt the questionnaire as needed.
 
 This plugin is ideal for therapists, clinics, and mental health professionals looking for a digital tool to assist with initial trauma assessments.
 
@@ -29,7 +29,7 @@ This plugin is ideal for therapists, clinics, and mental health professionals lo
 1. Upload the `trauma-quiz` folder to the `/wp-content/plugins/` directory, or install the plugin directly through the WordPress plugins screen.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Navigate to the plugin's settings page to configure your questions and options.
-4. Shortcode: [trauma_quiz]  
+4. Shortcode: [trauma_quiz]
 
 == Frequently Asked Questions ==
 
@@ -48,4 +48,6 @@ All collected data can be exported as a standard CSV file, which can be opened w
 == Changelog ==
 
 = 1.3 =
-*   Initial release.
+* Initial release.
+
+<img class="alignnone size-medium wp-image-166" src="https://psilidia.com/wp-content/uploads/2026/09/f1-300x142.png" alt="" width="300" height="142" /> <img class="alignnone size-medium wp-image-165" src="https://psilidia.com/wp-content/uploads/2026/09/f2-300x233.png" alt="" width="300" height="233" /> <img class="alignnone size-medium wp-image-164" src="https://psilidia.com/wp-content/uploads/2026/09/f3-300x300.png" alt="" width="300" height="300" /> <img class="alignnone size-medium wp-image-163" src="https://psilidia.com/wp-content/uploads/2026/09/f4-300x235.png" alt="" width="300" height="235" /> <img class="alignnone size-medium wp-image-162" src="https://psilidia.com/wp-content/uploads/2026/09/f5-300x101.png" alt="" width="300" height="101" />
