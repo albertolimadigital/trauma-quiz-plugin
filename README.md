@@ -29,6 +29,7 @@ This plugin is ideal for therapists, clinics, and mental health professionals lo
 1. Upload the `trauma-quiz` folder to the `/wp-content/plugins/` directory, or install the plugin directly through the WordPress plugins screen.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Navigate to the plugin's settings page to configure your questions and options.
+4. Shortcode: [trauma_quiz]  
 
 == Frequently Asked Questions ==
 
